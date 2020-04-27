@@ -1,6 +1,6 @@
 # Welcome to Gunter - your Personal Digital Assistant
 
-![](https://github.com/dhbw-stg-tinf17a/ICC-Pr-sentation/workflows/Continuous%20integration/badge.svg)
+![Continuous integration](https://github.com/ManuelWe/Personal-Digital-Assistant/workflows/Continuous%20integration/badge.svg)
 
 ## What can Gunter do?
 Gunter is a personal digital assistant. He offers four use cases which provide a wide variety of functionality. You can access Gunter via any web browser and talk to him. Gunter will answer.
